@@ -28,3 +28,5 @@ Following the PROPS legend, we can pass values ​​in from the parent componen
 
 React components have JSX format. Because of this, the syntax is slightly different. Example: class -> className. Write everything with help camelCase.
 In Main component we can see how write the inline style.
+
+### Data and Events
